@@ -1,0 +1,17 @@
+﻿body {
+    background-color: cornflowerblue;
+    color: #eeeeee;
+}
+
+.active {
+    color: #eeeeee;
+}
+
+#temp {
+    padding-right: 0;
+    margin-left: 20px;
+}
+
+#iconBox {
+    margin-left: 10%;
+}
